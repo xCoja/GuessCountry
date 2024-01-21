@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
         "AD": "Andorra",
         "AM": "Armenia",
         "AT": "Austria",
-        "AZ": "Azerbaijan",
         "BY": "Belarus",
         "BE": "Belgium",
         "BA": "Bosnia and Herzegovina",
@@ -26,12 +25,9 @@ document.addEventListener('DOMContentLoaded', function() {
         "KZ": "Kazakhstan",
         "XK": "Kosovo",
         "LV": "Latvia",
-        "LI": "Liechtenstein",
         "LT": "Lithuania",
         "LU": "Luxembourg",
-        "MT": "Malta",
         "MD": "Moldova",
-        "MC": "Monaco",
         "ME": "Montenegro",
         "NL": "Netherlands",
         "MK": "North Macedonia",
@@ -40,7 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
         "PT": "Portugal",
         "RO": "Romania",
         "RU": "Russia",
-        "SM": "San Marino",
         "RS": "Serbia",
         "SK": "Slovakia",
         "SI": "Slovenia",
@@ -85,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
             event.target.style.fill = "green"; // Highlight the correct country
             chooseCountry(); // Move to the next country
         } else {
-            alert("Incorrect, try again!");
+            alert("Incorrect, YOU ARE BLACK");
         }
     }
 
