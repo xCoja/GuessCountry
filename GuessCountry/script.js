@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
         "AD": "Andorra",
         "AM": "Armenia",
         "AT": "Austria",
-        "AZ": "Azerbaijan",
         "BY": "Belarus",
         "BE": "Belgium",
         "BA": "Bosnia and Herzegovina",
