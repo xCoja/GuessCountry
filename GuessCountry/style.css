@@ -1,0 +1,41 @@
+#game-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    margin: 20px auto;
+    width: 80%; /* Adjust based on your SVG size */
+}
+h1 {
+    color: white;
+    
+}
+p {
+    color: white;
+}
+
+.country {
+    fill: #cccccc; /* Default color for countries */
+    cursor: pointer;
+}
+
+.country:hover {
+    fill: #aaaaaa; /* Hover color */
+}
+
+.correct {
+    fill: green;
+}
+
+.incorrect {
+    fill: red;
+}
+
+.second-attempt {
+    fill: yellow;
+}
+
+body {
+    background-color: #222;
+}
