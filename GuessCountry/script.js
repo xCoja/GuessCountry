@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', function() {
         "LV": "Latvia",
         "LT": "Lithuania",
         "LU": "Luxembourg",
-        "MT": "Malta",
         "MD": "Moldova",
         "ME": "Montenegro",
         "NL": "Netherlands",
@@ -82,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
             event.target.style.fill = "green"; // Highlight the correct country
             chooseCountry(); // Move to the next country
         } else {
-            alert("Incorrect, try again!");
+            alert("Incorrect, YOU ARE BLACK");
         }
     }
 
